@@ -1,0 +1,8 @@
+Hello World
+This is the expected output
+Line three here
+The quick brown fox jumps over the lazy dog
+Learning Linux scripting is fun
+Bash is a powerful shell
+Automation makes life easier
+Final line of expected output
